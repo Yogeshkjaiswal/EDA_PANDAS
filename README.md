@@ -1,1 +1,2 @@
 # EDA_PANDAS
+This is a PANDAS EDA PROJECT!
